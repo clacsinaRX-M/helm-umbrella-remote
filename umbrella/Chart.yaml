@@ -5,7 +5,7 @@ version: 1.0.0
 dependencies:
 - name: hostinfo-2
   version: 1.0.0
-  repository: "https://github.com/clacsinaRX-M/hostinfo-helm-2"
+  repository: "https://github.com/clacsinaRX-M/hostinfo-helm-2.git"
 - name: hostinfo
   version: 1.0.0
-  repository: "https://github.com/clacsinaRX-M/hostinfo-helm"
+  repository: "https://github.com/clacsinaRX-M/hostinfo-helm.git"
